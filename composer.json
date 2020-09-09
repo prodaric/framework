@@ -1,0 +1,14 @@
+{
+    "name": "prodaric/framework",
+    "description": "Prodaric: The Productivity Framework Core",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neftalí Yagua",
+            "email": "despacho@neftaliyagua.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
